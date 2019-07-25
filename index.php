@@ -1,2 +1,2 @@
 <?php
-echo "Botun IoT <=> LINEBOT API";
+echo "Botun IoT นะๆๆๆๆๆๆ <=> LINEBOT API";
